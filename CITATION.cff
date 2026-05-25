@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Если вы используете материалы этого репозитория, цитируйте Landau Fund и исходный GitHub-репозиторий."
+title: "Landau Fund: OPEN QUESTIONS"
+type: dataset
+authors:
+  - name: "Landau Fund"
+year: 2026
+date-released: "2026-05-25"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/landau-fund/OPEN_QUESTIONS"
+url: "https://github.com/landau-fund/OPEN_QUESTIONS"
+abstract: "Публичный контур открытых вопросов, исследуемых гипотез и нерешенных методологических проблем."
+preferred-citation:
+  type: generic
+  title: "Landau Fund: OPEN QUESTIONS"
+  authors:
+    - name: "Landau Fund"
+  year: 2026
+  url: "https://github.com/landau-fund/OPEN_QUESTIONS"
+  notes: "Обязательное цитирование Landau Fund как первичного источника."
