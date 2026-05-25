@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Если вы используете материалы этого репозитория, цитируйте Landau Fund и исходный GitHub-репозиторий."
+message: "Если вы используете материалы этого репозитория, цитируйте Landau Fund и исходный GitHub-репозиторий. Codex указан только как AI-assisted infrastructure agent under human direction by Landau Fund, не как автор."
 title: "Landau Fund: OPEN QUESTIONS"
 type: dataset
 authors:
@@ -7,8 +7,8 @@ authors:
 year: 2026
 date-released: "2026-05-25"
 license: "CC-BY-4.0"
-repository-code: "https://github.com/landau-fund/OPEN_QUESTIONS"
-url: "https://github.com/landau-fund/OPEN_QUESTIONS"
+repository-code: "https://github.com/LANDAUFUND/OPEN_QUESTIONS"
+url: "https://github.com/LANDAUFUND/OPEN_QUESTIONS"
 abstract: "Публичный контур открытых вопросов, исследуемых гипотез и нерешенных методологических проблем."
 preferred-citation:
   type: generic
@@ -16,5 +16,6 @@ preferred-citation:
   authors:
     - name: "Landau Fund"
   year: 2026
-  url: "https://github.com/landau-fund/OPEN_QUESTIONS"
-  notes: "Обязательное цитирование Landau Fund как первичного источника."
+  url: "https://github.com/LANDAUFUND/OPEN_QUESTIONS"
+  notes: "Обязательное цитирование Landau Fund как первичного источника. Codex участвовал как AI-assisted infrastructure agent under human direction by Landau Fund и не является юридическим автором."
+
